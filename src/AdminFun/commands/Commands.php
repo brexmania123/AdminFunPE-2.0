@@ -799,4 +799,3 @@ class Commands extends BaseCommand{
 	}
 
 }
-?>
