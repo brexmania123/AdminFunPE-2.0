@@ -37,7 +37,7 @@ permissions:
         default: op
       adminfun.command.console:
         default: op
-      #adminfun.command.dropparty:
+      adminfun.command.dropparty:
         #default: op
       adminfun.command.explode:
         default: op
