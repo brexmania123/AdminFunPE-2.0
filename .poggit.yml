@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheFixerDevelopment/AdminFunPE-2.0
+branches:
+- master
+projects:
+  AdminFunPE-2.0:
+    path: ""
+...
