@@ -35,4 +35,3 @@ class ConfuseListener extends BaseListeners{
 	}
 
 }
-?>
