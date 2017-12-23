@@ -32,4 +32,3 @@ class FreezeListener extends BaseListeners{
 	}
 
 }
-?>
