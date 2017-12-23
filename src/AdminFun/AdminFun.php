@@ -100,4 +100,3 @@ class AdminFun extends PluginBase{
 	}
 
 }
-?>
