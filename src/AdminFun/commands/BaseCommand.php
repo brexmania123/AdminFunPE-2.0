@@ -37,4 +37,3 @@ abstract class BaseCommand extends PluginBase implements CommandExecutor{
 	}
 
 }
-?>
